@@ -11,6 +11,8 @@ I'm reliable person. I like work with a teame.  The result of a cooperative effo
 
 
 I want my job to give me the opportunity to learn new skills and grow as a professional. 
+
+
 Fiendly staff is very important to me.
 
 # Skills:
