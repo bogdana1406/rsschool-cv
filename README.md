@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://bogdana1406.github.io/rsschool-cv/cv
+[Click here to go to cv](https://bogdana1406.github.io/rsschool-cv/cv)
