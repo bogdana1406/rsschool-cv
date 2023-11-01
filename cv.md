@@ -23,6 +23,10 @@ Fiendly staff is very important to me.
 * **PHP**
 * **SQL**
 
+# Experience
+**job:** junior PHP-developer
+
+**company:** Prime-It
 
 # Code Example
 ```
@@ -32,13 +36,6 @@ function sayHallo(name) {
 let result = sayHallo('masha');
 alert(result);
 ```
-
-# Experience
-**job:** junior PHP-developer
-
-
-**company:** Prime-It
-
 
 # Education
 **University:** Poltava National technical university, Applied math
