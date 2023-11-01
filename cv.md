@@ -43,3 +43,6 @@ alert(result);
 # Courses
 * A-level PHP-developer
 * English HUB Pre-intermediate.
+
+# English level
+Intermediate
