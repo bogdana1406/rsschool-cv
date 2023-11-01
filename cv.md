@@ -2,7 +2,7 @@
 
 # Contacts
 * **Location:** Kharkiv, Ukraine
-* **Phone:** +380979654560
+* **Phone:** +380979654565
 * **Email:** karezkiy@gmail.com
 * **GitHub:** bogdana1406
 
