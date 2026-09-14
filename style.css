@@ -193,3 +193,64 @@ footer img {
   background-color: white;
   border-radius: 6px;
 }
+
+@media (max-width: 700px) {
+  body {
+    padding: 12px;
+  }
+
+  header {
+    grid-template-columns: 1fr;
+    padding: 28px 24px 40px;
+    text-align: center;
+  }
+
+  nav {
+    margin-bottom: 20px;
+  }
+
+  nav ul,
+  header > ul {
+    justify-content: center;
+  }
+
+  header > img {
+    grid-row: auto;
+    margin: 0 auto;
+  }
+
+  main {
+    padding: 8px 24px;
+  }
+
+  #skills ul,
+  #languages ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  footer {
+    flex-wrap: wrap;
+    padding: 24px;
+  }
+}
+
+@media (max-width: 450px) {
+  nav ul {
+    gap: 12px;
+  }
+
+  header > img {
+    width: 160px;
+    height: 160px;
+  }
+
+  #skills ul,
+  #languages ul {
+    grid-template-columns: 1fr;
+  }
+
+  pre {
+    padding: 18px;
+    font-size: 13px;
+  }
+}
